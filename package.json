@@ -1,0 +1,12 @@
+{
+    "name": "node-red-test-project",
+    "description": "Just a little project to test node-red",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_mac.local.json",
+            "credentialsFile": "flows_mac.local_cred.json"
+        }
+    }
+}
